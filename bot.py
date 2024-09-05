@@ -51,9 +51,6 @@ async def op(_, m :Message):
                     [
                         InlineKeyboardButton("🗯 ᴄʜᴀɴɴᴇʟ", url="https://t.me/+AQSNG5d_g104OTA1"),
                         InlineKeyboardButton("💬 ꜱᴜᴘᴘᴏʀᴛ", url="https://t.me/Cricketxutkarshfamily")
-                    ],[
-                        InlineKeyboardButton("ᴅᴇᴠ¹", url="https://t.me/unreal_x_bot"),
-                        InlineKeyboardButton("ᴅᴇᴠ²", url="https://t.me/Codesless")
                     ]
                 ]
             )
@@ -94,9 +91,6 @@ async def chk(_, cb : CallbackQuery):
                     [
                         InlineKeyboardButton("🗯 ᴄʜᴀɴɴᴇʟ", url="https://t.me/Cricketxutkarshfamily"),
                         InlineKeyboardButton("💬 ꜱᴜᴘᴘᴏʀᴛ", url="https://t.me/+AQSNG5d_g104OTA1")
-                    ],[
-                        InlineKeyboardButton("ᴅᴇᴠ¹", url="https://t.me/unreal_x_bot"),
-                        InlineKeyboardButton("ᴅᴇᴠ²", url="https://t.me/Codesless")
                     ]
                 ]
             )
